@@ -1,4 +1,7 @@
-<h1>Introduction</h1>
+## About Intuz
+This library is maintained by [Intuz](https://www.intuz.com) — an AI-first software development company specializing in [iOS app development](https://www.intuz.com/ios-development)
+and [mobile app development](https://www.intuz.com/custom-app-development).
+<br><br>
 INTUZ is presenting an interesting Custom DragCollectionFlowLayout Control to integrate inside your native iOS-based application. 
 DragCollectionFlowLayout is a simple component, which lets you drag and drop collectionviewcell using the long press in the cell. 
 You will update the source and destination position of the array list.
